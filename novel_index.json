@@ -11,7 +11,7 @@
     "dateFormatLocale": "",
     "isNsfw": false,
     "hasCloudflare": false,
-    "sourceCodeUrl": "https://raw.githubusercontent.com/dotstoby-png/Fanfiction-mangayomi/main/javascript/novel/fanfiction.js",
+"sourceCodeUrl": "https://raw.githubusercontent.com/dotstoby-png/Fanfiction-mangayomi/main/javascript/novel/src/en/fanfiction.js",
     "apiUrl": "",
     "version": "0.0.1",
     "isManga": false,
