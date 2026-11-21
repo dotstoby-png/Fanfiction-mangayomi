@@ -1,0 +1,25 @@
+
+[
+  {
+    "name": "FanFiction.net",
+    "id": 987654321,
+    "baseUrl": "https://m.fanfiction.net",
+    "lang": "en",
+    "typeSource": "single",
+    "iconUrl": "https://www.fanfiction.net/favicon.ico",
+    "dateFormat": "",
+    "dateFormatLocale": "",
+    "isNsfw": false,
+    "hasCloudflare": false,
+    "sourceCodeUrl": "https://raw.githubusercontent.com/dotstoby-png/Fanfiction-mangayomi/main/javascript/novel/fanfiction.js",
+    "apiUrl": "",
+    "version": "0.0.1",
+    "isManga": false,
+    "itemType": 2,
+    "isFullData": false,
+    "appMinVerReq": "0.5.0",
+    "additionalParams": "",
+    "sourceCodeLanguage": 1,
+    "notes": "FanFiction.net novel source"
+  }
+]
